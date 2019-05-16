@@ -1,0 +1,43 @@
+127.0.0.1 localhost
+::1             ip6-localhost
+0.0.0.0 0.0.0.0
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 down.qq.com
+0.0.0.0 cloud.gsdk.proximabeta.com
+0.0.0.0 dlied1.qq.com 
+
+127.0.0.1 localhost
+::1             ip6-localhost
+127.0.0.1 ns3.qq.com
+127.0.0.1 ns2.qq.com
+127.0.0.1 ns4.qq.com
+127.0.0.1 ns1.qq.com
+127.0.0.1 euspeed.igamecj.com
+127.0.0.1 oth.eve.mdt.qq.com
+127.0.0.1 ns114.qq.com
+127.0.0.1 ns-open2.qq.com
+127.0.0.1 ns-open1.qq.com
+127.0.0.1 apm.wetest.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 down.qq.com
+127.0.0.1 49.51.134.84
+127.0.0.1 de.voice.gcloudcs.com
+127.0.0.1 192.168.0.1
+127.0.0.1 qos.hk.gcloudcs.com
+127.0.0.1 cloud.gsdk.proximabeta.com
+127.0.0.1 49.51.138.45
+127.0.0.1 idcconfig.gcloud.qq.com
+127.0.0.1 saping.igamecj.com
+127.0.0.1 hkping.igamecj.com
+127.0.0.1 krping.igamecj.com
+127.0.0.1 49.51.153.207
+127.0.0.1 euping.igamecj.com
+127.0.0.1 naping.igamecj.com
+127.0.0.1 idc.receiver.tdm.qq.com
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 49.51.42.152
+127.0.0.1 203.205.146.122
+
+
+
+#EAGLE HACKS
